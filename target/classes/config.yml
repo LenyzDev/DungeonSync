@@ -1,0 +1,5 @@
+MySQL:
+  ip: "localhost:3306"
+  database: "database"
+  username: "user"
+  password: "password"

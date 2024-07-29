@@ -1,0 +1,4 @@
+name: DungeonSync
+version: '${project.version}'
+main: mineway.dungeonsync.DungeonSync
+api-version: '1.20'
